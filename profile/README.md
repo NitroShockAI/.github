@@ -50,7 +50,7 @@ Free to install. One NitroShock account powers all of them.
 | [NitroImg](https://nitroshock.ai/nitroimg/) | WebP and AVIF conversion with AI-written alt text, including bulk fixes |
 | [NitroEcho](https://nitroshock.ai/nitroecho/) | Finds duplicate content across your site, drafts included |
 | [NitroSnippets](https://nitroshock.ai/nitrosnippets/) | Custom JS, CSS and PHP with AI writing and a PHP safety sandbox |
-| [PostGate](https://nitroshock.ai/postgate/) | Members-only posts for list building, hard gate or soft preview |
+| [NitroGate](https://nitroshock.ai/nitrogate/) | Members-only posts and pages, one checkbox per post |
 | [NitroLiteBox](https://github.com/NitroShockAI/NitroLiteBox) | Open-source image lightbox, see below |
 
 ### Open source
